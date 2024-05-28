@@ -1,0 +1,36 @@
+Matrix size: 500x500
+Single-threaded time: 0.33 seconds
+Multi-threaded time: 0.10 seconds
+Results are equal: true
+Speedup: 3.48MD5 checksum for C: 12771d4dec1de73f0d139e937dccfd84
+MD5 checksum for D: 12771d4dec1de73f0d139e937dccfd84
+Matrix size: 1000x1000
+Single-threaded time: 2.72 seconds
+Multi-threaded time: 0.29 seconds
+Results are equal: true
+Speedup: 9.25MD5 checksum for C: 177c1647e02e667232f6b1f057f7a16d
+MD5 checksum for D: 177c1647e02e667232f6b1f057f7a16d
+Matrix size: 1500x1500
+Single-threaded time: 9.50 seconds
+Multi-threaded time: 1.54 seconds
+Results are equal: true
+Speedup: 6.16MD5 checksum for C: 33512aeebd114c60822d782c99f222e5
+MD5 checksum for D: 33512aeebd114c60822d782c99f222e5
+Matrix size: 899x899
+Single-threaded time: 1.94 seconds
+Multi-threaded time: 0.25 seconds
+Results are equal: true
+Speedup: 7.79MD5 checksum for C: 199a82b69eb1433d167f9eab6245a7f9
+MD5 checksum for D: 199a82b69eb1433d167f9eab6245a7f9
+Matrix size: 1200x1200
+Single-threaded time: 5.81 seconds
+Multi-threaded time: 0.94 seconds
+Results are equal: true
+Speedup: 6.19MD5 checksum for C: 4620f80c81dac6f3a5b7ecf6516963f9
+MD5 checksum for D: 4620f80c81dac6f3a5b7ecf6516963f9
+Matrix size: 1750x1750
+Single-threaded time: 22.38 seconds
+Multi-threaded time: 2.78 seconds
+Results are equal: true
+Speedup: 8.04MD5 checksum for C: 540d8aa883cf842ad73a87df3e45ca81
+MD5 checksum for D: 540d8aa883cf842ad73a87df3e45ca81
